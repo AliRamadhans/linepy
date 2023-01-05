@@ -31,6 +31,7 @@ Its purpose is to effectively compress mid (32 bytes) to 16 bytes
 
 
 ####  Example
+go get -u github.com/DeachSword/CHRLINE
 ```python
 from CHRLINE import *
 
